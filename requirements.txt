@@ -2,4 +2,3 @@ streamlit>=1.35
 pymupdf>=1.24
 Pillow>=10
 reportlab>=4
-artifact-tool
